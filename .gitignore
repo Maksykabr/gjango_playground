@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Django
+*.log
+db.sqlite3
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Other
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore the local settings file
+myproject/settings.py
+
+# Ignore the media directory
+media/
+
+# Ignore the static directory
+static/
+
